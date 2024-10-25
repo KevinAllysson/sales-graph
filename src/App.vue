@@ -3,23 +3,32 @@
     template(v-if="isLoading")
       Loading
     template(v-else)
-      mainPage
-</template>
+      router-view
+  </template>
 
 <script>
-import { ref, onMounted } from 'vue';
-import mainPage from '/src/views/MainPage.vue';
+import { ref } from 'vue';
+import { useRoute, useRouter } from 'vue-router';
 import Loading from './assets/Loading.vue';
 
 export default {
-  components: { mainPage, Loading },
+  components: { Loading },
   setup() {
-    const isLoading = ref(true);
+    const isLoading = ref(false); 
+    const router = useRouter();
+    const route = useRoute();
 
-    onMounted(() => {
+    router.beforeEach((to, from, next) => {
+      if (to.path === '/dashboard') {
+        isLoading.value = true; 
+      }
+      next(); 
+    });
+
+    router.afterEach(() => {
       setTimeout(() => {
-        isLoading.value = false;
-      }, 2000); 
+        isLoading.value = false; 
+      }, 3000); 
     });
 
     return {
