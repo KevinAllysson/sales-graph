@@ -1,0 +1,358 @@
+{
+    "empresas": [
+        {
+            "id": "3f7c5b23-47a1-4d35-8f4f-82231c8f2c53",
+            "name": "TechBeta",
+            "totalSales": 33000,
+            "months": [
+                {
+                    "month": "Dezembro",
+                    "value": 3500
+                },
+                {
+                    "month": "Novembro",
+                    "value": 9000
+                },
+                {
+                    "month": "Outubro",
+                    "value": 500
+                },
+                {
+                    "month": "Setembro",
+                    "value": 500
+                },
+                {
+                    "month": "Agosto",
+                    "value": 1000
+                },
+                {
+                    "month": "Julho",
+                    "value": 25000
+                },
+                {
+                    "month": "Junho",
+                    "value": 500
+                },
+                {
+                    "month": "Maio",
+                    "value": 500
+                },
+                {
+                    "month": "Abril",
+                    "value": 1000
+                },
+                {
+                    "month": "Março",
+                    "value": 1000
+                },
+                {
+                    "month": "Fevereiro",
+                    "value": 1000
+                },
+                {
+                    "month": "Janeiro",
+                    "value": 1000
+                }
+            ],
+            "goal": 15000,
+            "Departament": "Tecnologia",
+            "country": "Brasil",
+            "state": "RS",
+            "check": false
+        },
+        {
+            "id": "913e2145-7f48-43a5-8e0b-5c51181b42c2",
+            "name": "Nexar",
+            "totalSales": 29000,
+            "months": [
+                {
+                    "month": "Dezembro",
+                    "value": 5000
+                },
+                {
+                    "month": "Novembro",
+                    "value": 10000
+                },
+                {
+                    "month": "Outubro",
+                    "value": 1000
+                },
+                {
+                    "month": "Setembro",
+                    "value": 1000
+                },
+                {
+                    "month": "Agosto",
+                    "value": 2000
+                },
+                {
+                    "month": "Julho",
+                    "value": 3000
+                },
+                {
+                    "month": "Junho",
+                    "value": 1000
+                },
+                {
+                    "month": "Maio",
+                    "value": 1000
+                },
+                {
+                    "month": "Abril",
+                    "value": 2000
+                },
+                {
+                    "month": "Março",
+                    "value": 2000
+                },
+                {
+                    "month": "Fevereiro",
+                    "value": 2000
+                },
+                {
+                    "month": "Janeiro",
+                    "value": 2000
+                }
+            ],
+            "goal": 250000,
+            "Departament": "Marketing",
+            "country": "Brasil",
+            "state": "SP",
+            "check": false
+        },
+        {
+            "id": "2c9f5a43-9d7a-4c1e-af4d-6b2f5d3f4c21",
+            "name": "Vortech",
+            "totalSales": 184000,
+            "months": [
+                {
+                    "month": "Dezembro",
+                    "value": 40000
+                },
+                {
+                    "month": "Novembro",
+                    "value": 8000
+                },
+                {
+                    "month": "Outubro",
+                    "value": 1500
+                },
+                {
+                    "month": "Setembro",
+                    "value": 1500
+                },
+                {
+                    "month": "Agosto",
+                    "value": 30000
+                },
+                {
+                    "month": "Julho",
+                    "value": 40000
+                },
+                {
+                    "month": "Junho",
+                    "value": 1500
+                },
+                {
+                    "month": "Maio",
+                    "value": 1500
+                },
+                {
+                    "month": "Abril",
+                    "value": 30000
+                },
+                {
+                    "month": "Março",
+                    "value": 30000
+                },
+                {
+                    "month": "Fevereiro",
+                    "value": 30000
+                },
+                {
+                    "month": "Janeiro",
+                    "value": 30000
+                }
+            ],
+            "goal": 220000,
+            "Departament": "Desenvolvimento",
+            "country": "Brasil",
+            "state": "MG",
+            "check": false
+        },
+        {
+            "id": "1d2b3f65-8c2a-4bde-b84f-c6eae5f9b23a",
+            "name": "AlphaTech",
+            "totalSales": 77000,
+            "months": [
+                {
+                    "month": "Dezembro",
+                    "value": 20000
+                },
+                {
+                    "month": "Novembro",
+                    "value": 15000
+                },
+                {
+                    "month": "Outubro",
+                    "value": 10000
+                },
+                {
+                    "month": "Setembro",
+                    "value": 5000
+                },
+                {
+                    "month": "Agosto",
+                    "value": 10000
+                },
+                {
+                    "month": "Julho",
+                    "value": 5000
+                },
+                {
+                    "month": "Junho",
+                    "value": 4000
+                },
+                {
+                    "month": "Maio",
+                    "value": 3000
+                },
+                {
+                    "month": "Abril",
+                    "value": 5000
+                },
+                {
+                    "month": "Março",
+                    "value": 2000
+                },
+                {
+                    "month": "Fevereiro",
+                    "value": 1000
+                },
+                {
+                    "month": "Janeiro",
+                    "value": 2000
+                }
+            ],
+            "goal": 80000,
+            "Departament": "Inovação",
+            "country": "Brasil",
+            "state": "RJ",
+            "check": false
+        }
+    ],
+    "produtos": [
+        {
+            "idEmpresa": "3f7c5b23-47a1-4d35-8f4f-82231c8f2c53",
+            "name": "Datacise",
+            "data": "2024-10-24",
+            "category": "Software",
+            "location": "Sul",
+            "value": 1500
+        },
+        {
+            "idEmpresa": "913e2145-7f48-43a5-8e0b-5c51181b42c2",
+            "name": "Nexar Core",
+            "data": "2023-12-05",
+            "category": "Marketing",
+            "location": "Nordeste",
+            "value": 1800
+        },
+        {
+            "idEmpresa": "2c9f5a43-9d7a-4c1e-af4d-6b2f5d3f4c21",
+            "name": "Vortech AI",
+            "data": "2024-03-01",
+            "category": "Inteligência Artificial",
+            "location": "Sudeste",
+            "value": 3000
+        },
+        {
+            "idEmpresa": "1d2b3f65-8c2a-4bde-b84f-c6eae5f9b23a",
+            "name": "AlphaDrone",
+            "data": "2024-02-20",
+            "category": "Robótica",
+            "location": "Nordeste",
+            "value": 5000
+        },
+        {
+            "idEmpresa": "3f7c5b23-47a1-4d35-8f4f-82231c8f2c53",
+            "name": "CloudVault",
+            "data": "2024-11-15",
+            "category": "Armazenamento",
+            "location": "Sul",
+            "value": 2700
+        },
+        {
+            "idEmpresa": "913e2145-7f48-43a5-8e0b-5c51181b42c2",
+            "name": "Nexar Insights",
+            "data": "2023-10-10",
+            "category": "Análise de Dados",
+            "location": "Centro-Oeste",
+            "value": 3200
+        },
+        {
+            "idEmpresa": "2c9f5a43-9d7a-4c1e-af4d-6b2f5d3f4c21",
+            "name": "Vortech Automation",
+            "data": "2024-04-05",
+            "category": "Automação",
+            "location": "Norte",
+            "value": 4100
+        },
+        {
+            "idEmpresa": "1d2b3f65-8c2a-4bde-b84f-c6eae5f9b23a",
+            "name": "AlphaVision",
+            "data": "2024-01-25",
+            "category": "Visão Computacional",
+            "location": "Sul",
+            "value": 4900
+        },
+        {
+            "idEmpresa": "3f7c5b23-47a1-4d35-8f4f-82231c8f2c53",
+            "name": "Legacy Secure",
+            "data": "2024-05-10",
+            "category": "Segurança",
+            "location": "Sudeste",
+            "value": 3300
+        },
+        {
+            "idEmpresa": "913e2145-7f48-43a5-8e0b-5c51181b42c2",
+            "name": "Nexar Social",
+            "data": "2024-03-20",
+            "category": "Plataforma Social",
+            "location": "Nordeste",
+            "value": 3600
+        },
+        {
+            "idEmpresa": "2c9f5a43-9d7a-4c1e-af4d-6b2f5d3f4c21",
+            "name": "Vortech Cloud",
+            "data": "2024-06-12",
+            "category": "Infraestrutura",
+            "location": "Centro-Oeste",
+            "value": 5200
+        },
+        {
+            "idEmpresa": "1d2b3f65-8c2a-4bde-b84f-c6eae5f9b23a",
+            "name": "AlphaBot",
+            "data": "2024-07-01",
+            "category": "Inteligência Artificial",
+            "location": "Sudeste",
+            "value": 5500
+        },
+        {
+            "idEmpresa": "3f7c5b23-47a1-4d35-8f4f-82231c8f2c53",
+            "name": "Datacise Pro",
+            "data": "2024-08-14",
+            "category": "Software Empresarial",
+            "location": "Sul",
+            "value": 3700
+        },
+        {
+            "idEmpresa": "913e2145-7f48-43a5-8e0b-5c51181b42c2",
+            "name": "Nexar Engage",
+            "data": "2023-09-18",
+            "category": "Marketing Digital",
+            "location": "Norte",
+            "value": 2900
+        }
+    ]
+}
