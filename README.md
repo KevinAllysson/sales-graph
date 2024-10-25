@@ -20,6 +20,7 @@ Este projeto é uma aplicação web desenvolvida com **Vue 3** e **Vite** que ut
 ---
 
 git clone https://github.com/seu-usuario/sales-grath.git
+
 cd sales-grath
 
 ---
