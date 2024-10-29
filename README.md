@@ -1,21 +1,21 @@
 # Sales Graph
-# Projeto: Dashboard Vue 3 com Vite
+# Project: Dashboard Vue 3 with Vite
 
-Este projeto é uma aplicação web desenvolvida com **Vue 3** e **Vite** que utiliza uma stack moderna e eficiente para criar um dashboard interativo. A interface foi construída com **Pug** para maior simplicidade na escrita de templates, **Tailwind CSS** para estilização rápida, e várias bibliotecas para funcionalidades adicionais, como **Element Plus** para componentes UI, **Chart.js** para gráficos, **Vue-Leaflet** para mapas, e **axios** para integração com APIs. Um servidor local utilizando **json-server** é configurado para servir dados mockados.
+This project is a web application developed with **Vue 3** and **Vite**, leveraging a modern and efficient stack to create an interactive dashboard. The interface is built with **Pug** for simpler template writing, **Tailwind CSS** for rapid styling, and various libraries for additional functionality, such as **Element Plus** for UI components, **Chart.js** for charts, **Vue-Leaflet** for maps, and **axios** for API integration. A local server using json-server is configured to serve mocked data.
 
 ---
 
-## 📦 Tecnologias utilizadas
+## 📦 Technologies Used
 
-- **Vue 3**: Framework JavaScript reativo e modular.
-- **Vite**: Ferramenta de build rápida e leve para projetos Vue.
-- **Pug**: Linguagem de template que simplifica a sintaxe HTML.
-- **Tailwind CSS**: Framework CSS utilitário para estilização rápida.
-- **Element Plus**: Biblioteca de componentes Vue.
-- **Chart.js**: Biblioteca para gráficos interativos.
-- **Vue-Leaflet**: Integração de mapas interativos com Leaflet.
-- **Axios**: Cliente HTTP para consumo de APIs.
-- **json-server**: Servidor mockado para simulação de API REST.
+-- Vue 3: Reactive and modular JavaScript framework.
+-- Vite: Fast and lightweight build tool for Vue projects.
+-- Pug: Template language that simplifies HTML syntax.
+-- Tailwind CSS: Utility-first CSS framework for rapid styling.
+-- Element Plus: Vue components library.
+-- Chart.js: Library for interactive charts.
+-- Vue-Leaflet: Integration of interactive maps with Leaflet.
+-- Axios: HTTP client for API consumption.
+-- json-server: Mock server for simulating REST APIs.
 
 ---
 
