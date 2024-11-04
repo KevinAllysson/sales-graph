@@ -7,15 +7,15 @@ This project is a web application developed with **Vue 3** and **Vite**, leverag
 
 ## 📦 Technologies Used
 
--- Vue 3: Reactive and modular JavaScript framework.
--- Vite: Fast and lightweight build tool for Vue projects.
--- Pug: Template language that simplifies HTML syntax.
--- Tailwind CSS: Utility-first CSS framework for rapid styling.
--- Element Plus: Vue components library.
--- Chart.js: Library for interactive charts.
--- Vue-Leaflet: Integration of interactive maps with Leaflet.
--- Axios: HTTP client for API consumption.
--- json-server: Mock server for simulating REST APIs.
+- **Vue 3**: Reactive and modular JavaScript framework.
+- **Vite**: Fast and lightweight build tool for Vue projects.
+- **Pug**: Template language that simplifies HTML syntax.
+- **Tailwind CSS**: Utility-first CSS framework for rapid styling.
+- **Element Plus**: Vue components library.
+- **Chart.js**: Library for interactive charts.
+- **Vue-Leaflet**: Integration of interactive maps with Leaflet.
+- **Axios**: HTTP client for API consumption.
+- **json-server**: Mock server for simulating REST APIs.
 
 ---
 
